@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- LOGO: Replace with your tool's logo or banner image -->
-<img src="assets/banner.png" alt="CS Helper Banner" width="800"/>
+<img src="assets/CS 2.png" alt="CS Helper Banner" width="800"/>
 
 <h1>CS Helper</h1>
 
